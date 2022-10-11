@@ -6,4 +6,4 @@
 
 🍓 Eu estou interessado em aprender progamação
 
-
+ 🎈 estou aprendendo a progamarrecentimente em linguagens JavaScript e Scratch
